@@ -24,4 +24,4 @@ jobs:
           pip install requests
 
       - name: Run Analysis and Recommendation
-        run: python analyze_and_recommend.py
+        run:  analyze_and_recommend.py
